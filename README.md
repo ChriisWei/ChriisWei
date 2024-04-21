@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChriisWei
-- 👀 I'm a student at Hohai University.
+- 👀 I'm a CS student at Hohai University.
 - 🌱 I’m currently learning data structure, PyTorch, back-end development and so on.
 
 <!---
