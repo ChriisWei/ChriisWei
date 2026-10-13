@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChriisWei
-- 👀 I'm an M.Sc. Information System student at TUM.
+- 👀 I'm an M.Sc. Information Systems student at TUM.
 
 <!---
 ChriisWei/ChriisWei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
